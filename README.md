@@ -1,5 +1,5 @@
-# MasterClock
-The Master Clock is an Arduino Nano based Eurorack clock module. It is a fairly simple but usefull module for any DIY synthesizer enthusiast.
+# MasterClock for Synth DIY
+Master Clock is an Arduino Nano based Eurorack clock module. It is a fairly simple but usefull module for any DIY synthesizer enthusiast.
 ## Features
 - 3 digit segment display
 - 1 main output pulse and 3 multiplied clocked output pulses
