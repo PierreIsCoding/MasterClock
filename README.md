@@ -7,7 +7,7 @@ Master Clock is an Arduino Nano based Eurorack clock module. It is a fairly simp
   - Second: 2 times faster
   - Third: 4 times faster
   - Forth: 8 times faster
-- A rotary encoder to change the speed. By clicking the encoder push button the master clock toggles between fine or course increments
+- A rotary encoder to change the speed. By using the encoder push button the master clock toggles between fine or course increments
 - Four utility buttons:
   - Start and stop the clock
   - Tap tempo. The clock will estimate your tapped speed
